@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2016-01-07 22:00:00
+photo: wesource.png
+caption_header: Ny site kommer snart
+caption: jodå, både innehåll och layout på denna sida byts inom kort!
+---

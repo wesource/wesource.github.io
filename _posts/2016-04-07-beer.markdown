@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2016-01-07 22:00:01
+photo: beer.png
+caption_header: Öl!
+caption: gillar du öl? eftersom du tillhör en av få som hittat hit; skicka ett mail till henric@wesource.se så återkommer jag med tid och plats när jag kan få bjuda på en god öl! 
+---
