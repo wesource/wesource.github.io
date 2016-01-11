@@ -10,4 +10,5 @@ author:
 twitter_username: henrichedin
 github_username:  wesource    
     
-highlighter: rouge
+#highlighter: rouge
+highlighter: pygments
